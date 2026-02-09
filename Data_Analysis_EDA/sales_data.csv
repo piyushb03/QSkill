@@ -1,0 +1,9 @@
+Product,Region,Price,Units_Sold,Customer_Rating
+Laptop,North,1000,50,4.5
+Mouse,North,25,200,4.0
+Monitor,North,300,80,4.8
+Keyboard,North,50,150,4.2
+Laptop,South,1100,45,4.6
+Mouse,South,30,180,3.9
+Monitor,South,320,75,4.7
+Keyboard,South,55,140,4.1
